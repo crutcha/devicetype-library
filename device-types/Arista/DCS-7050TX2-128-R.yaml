@@ -1,0 +1,224 @@
+manufacturer: Arista
+model: DCS-7050TX2-128-R
+slug: dcs-7050tx2-128-r
+is_full_depth: True
+u_height: 2
+interfaces:
+  - name: Ethernet1
+    type: 10gbase-t
+  - name: Ethernet2
+    type: 10gbase-t
+  - name: Ethernet3
+    type: 10gbase-t
+  - name: Ethernet4
+    type: 10gbase-t
+  - name: Ethernet5
+    type: 10gbase-t
+  - name: Ethernet6
+    type: 10gbase-t
+  - name: Ethernet7
+    type: 10gbase-t
+  - name: Ethernet8
+    type: 10gbase-t
+  - name: Ethernet9
+    type: 10gbase-t
+  - name: Ethernet10
+    type: 10gbase-t
+  - name: Ethernet11
+    type: 10gbase-t
+  - name: Ethernet12
+    type: 10gbase-t
+  - name: Ethernet13
+    type: 10gbase-t
+  - name: Ethernet14
+    type: 10gbase-t
+  - name: Ethernet15
+    type: 10gbase-t
+  - name: Ethernet16
+    type: 10gbase-t
+  - name: Ethernet17
+    type: 10gbase-t
+  - name: Ethernet18
+    type: 10gbase-t
+  - name: Ethernet19
+    type: 10gbase-t
+  - name: Ethernet20
+    type: 10gbase-t
+  - name: Ethernet21
+    type: 10gbase-t
+  - name: Ethernet22
+    type: 10gbase-t
+  - name: Ethernet23
+    type: 10gbase-t
+  - name: Ethernet24
+    type: 10gbase-t
+  - name: Ethernet25
+    type: 10gbase-t
+  - name: Ethernet26
+    type: 10gbase-t
+  - name: Ethernet27
+    type: 10gbase-t
+  - name: Ethernet28
+    type: 10gbase-t
+  - name: Ethernet29
+    type: 10gbase-t
+  - name: Ethernet30
+    type: 10gbase-t
+  - name: Ethernet31
+    type: 10gbase-t
+  - name: Ethernet32
+    type: 10gbase-t
+  - name: Ethernet33
+    type: 10gbase-t
+  - name: Ethernet34
+    type: 10gbase-t
+  - name: Ethernet35
+    type: 10gbase-t
+  - name: Ethernet36
+    type: 10gbase-t
+  - name: Ethernet37
+    type: 10gbase-t
+  - name: Ethernet38
+    type: 10gbase-t
+  - name: Ethernet39
+    type: 10gbase-t
+  - name: Ethernet40
+    type: 10gbase-t
+  - name: Ethernet41
+    type: 10gbase-t
+  - name: Ethernet42
+    type: 10gbase-t
+  - name: Ethernet33
+    type: 10gbase-t
+  - name: Ethernet44
+    type: 10gbase-t
+  - name: Ethernet45
+    type: 10gbase-t
+  - name: Ethernet46
+    type: 10gbase-t
+  - name: Ethernet47
+    type: 10gbase-t
+  - name: Ethernet48
+    type: 10gbase-t
+  - name: Ethernet49
+    type: 10gbase-t
+  - name: Ethernet50
+    type: 10gbase-t
+  - name: Ethernet51
+    type: 10gbase-t
+  - name: Ethernet52
+    type: 10gbase-t
+  - name: Ethernet53
+    type: 10gbase-t
+  - name: Ethernet54
+    type: 10gbase-t
+  - name: Ethernet55
+    type: 10gbase-t
+  - name: Ethernet56
+    type: 10gbase-t
+  - name: Ethernet57
+    type: 10gbase-t
+  - name: Ethernet58
+    type: 10gbase-t
+  - name: Ethernet59
+    type: 10gbase-t
+  - name: Ethernet60
+    type: 10gbase-t
+  - name: Ethernet61
+    type: 10gbase-t
+  - name: Ethernet62
+    type: 10gbase-t
+  - name: Ethernet63
+    type: 10gbase-t
+  - name: Ethernet64
+    type: 10gbase-t
+  - name: Ethernet65
+    type: 10gbase-t
+  - name: Ethernet66
+    type: 10gbase-t
+  - name: Ethernet67
+    type: 10gbase-t
+  - name: Ethernet68
+    type: 10gbase-t
+  - name: Ethernet69
+    type: 10gbase-t
+  - name: Ethernet70
+    type: 10gbase-t
+  - name: Ethernet71
+    type: 10gbase-t
+  - name: Ethernet72
+    type: 10gbase-t
+  - name: Ethernet73
+    type: 10gbase-t
+  - name: Ethernet74
+    type: 10gbase-t
+  - name: Ethernet75
+    type: 10gbase-t
+  - name: Ethernet76
+    type: 10gbase-t
+  - name: Ethernet77
+    type: 10gbase-t
+  - name: Ethernet78
+    type: 10gbase-t
+  - name: Ethernet79
+    type: 10gbase-t
+  - name: Ethernet80
+    type: 10gbase-t
+  - name: Ethernet81
+    type: 10gbase-t
+  - name: Ethernet82
+    type: 10gbase-t
+  - name: Ethernet83
+    type: 10gbase-t
+  - name: Ethernet84
+    type: 10gbase-t
+  - name: Ethernet85
+    type: 10gbase-t
+  - name: Ethernet86
+    type: 10gbase-t
+  - name: Ethernet87
+    type: 10gbase-t
+  - name: Ethernet88
+    type: 10gbase-t
+  - name: Ethernet89
+    type: 10gbase-t
+  - name: Ethernet90
+    type: 10gbase-t
+  - name: Ethernet91
+    type: 10gbase-t
+  - name: Ethernet92
+    type: 10gbase-t
+  - name: Ethernet93
+    type: 10gbase-t
+  - name: Ethernet94
+    type: 10gbase-t
+  - name: Ethernet95
+    type: 10gbase-t
+  - name: Ethernet96
+    type: 10gbase-t
+  - name: Ethernet97
+    type: 40gbase-x-qsfpp
+  - name: Ethernet98
+    type: 40gbase-x-qsfpp
+  - name: Ethernet99
+    type: 40gbase-x-qsfpp
+  - name: Ethernet100
+    type: 40gbase-x-qsfpp
+  - name: Ethernet101
+    type: 40gbase-x-qsfpp
+  - name: Ethernet102
+    type: 40gbase-x-qsfpp
+  - name: Ethernet103
+    type: 40gbase-x-qsfpp
+  - name: Ethernet104
+    type: 40gbase-x-qsfpp
+  - name: Management1
+    type: 1000base-t
+console-ports:
+  - name: Console
+    type: rj-45
+power-ports:
+  - name: PS1
+    type: iec-60320-c14
+  - name: PS2
+    type: iec-60320-c14
