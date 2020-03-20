@@ -68,9 +68,9 @@ interfaces:
     type: 100gbase-x-qsfp28
   - name: Ethernet32/1
     type: 100gbase-x-qsfp28
-  - name: Ethernet33
+  - name: Ethernet33/1
     type: 10gbase-x-sfpp
-  - name: Ethernet34
+  - name: Ethernet34/1
     type: 10gbase-x-sfpp
   - name: Management1
     type: 1000base-t
