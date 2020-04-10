@@ -1,0 +1,29 @@
+manufacturer: Juniper
+model: SRX650
+slug: srx650
+is_full_depth: false
+u_height: 2
+interfaces:
+  - name: fxp0
+    type: 1000base-t
+    mgmt_only: true
+  - name: ge-0/0/0
+    type: 1000base-t
+  - name: ge-0/0/1
+    type: 1000base-t
+  - name: ge-0/0/2
+    type: 1000base-t
+  - name: ge-0/0/3
+    type: 1000base-t
+  - name: ge-0/0/4
+    type: 1000base-t
+power-ports:
+  - name: PSU0
+    type: iec-60320-c14
+    maximum_draw: 645
+  - name: PSU1
+    type: iec-60320-c14
+    maximum_draw: 645
+console-ports:
+  - name: Console
+    type: rj-45
